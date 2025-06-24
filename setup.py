@@ -9,7 +9,7 @@ setup(
     install_requires=[
         "textual>=0.38.0",
         "screen-brightness-control>=0.14.1",
-        "pywifi>=1.1.13",
+        "pywifi>=1.1.11",
         "Pillow>=10.0.0"
     ],
     entry_points={
