@@ -1,0 +1,4 @@
+textual>=0.38.0
+screen-brightness-control>=0.14.1
+pywifi>=1.1.13
+Pillow>=10.0.0

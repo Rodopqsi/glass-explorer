@@ -1,0 +1,19 @@
+.glass {
+    background: rgba(30, 30, 40, 0.7);
+    border: round #7ed7ff;
+    padding: 1 2;
+}
+.glass-title {
+    color: #a7dfff;
+    bold: true;
+    padding: 1 0;
+}
+.glass-preview {
+    background: rgba(44, 62, 80, 0.6);
+    border: round #bfcfff;
+    color: #dff6ff;
+}
+.glass-log {
+    background: rgba(22, 25, 50, 0.6);
+    color: #cdf2f7;
+}
